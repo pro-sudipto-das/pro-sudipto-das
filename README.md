@@ -9,11 +9,11 @@ passionate about creating error-free, responsive, and modern websites that drive
 
 Skills: HTML / CSS / JS / 
 
-- 🔭 I’m currently working on UniflipUI as the CEO. 
-- 🌱 I’m currently learning JavaScript. 
-- 👯 I’m looking to collaborate on  open-source frontend UI/UX projects. 
-- 💬 Ask me about Web Devlopment & Web Design 
-- 📫 How to reach me: GitHub, LinkedIn, Instagram or Email 
+-  I’m currently working on UniflipUI as the CEO. 
+-  I’m currently learning JavaScript. 
+-  I’m looking to collaborate on  open-source frontend UI/UX projects. 
+-  Ask me about Web Devlopment & Web Design 
+-  How to reach me: GitHub, LinkedIn, Instagram or Email 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pro-sudipto-das)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/developer-sudipto-das//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sudipto.googly.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/developer_sudipto_das/?next=%2F/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/sudipto01537)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.sudiptogoogly.com)  
