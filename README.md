@@ -1,7 +1,7 @@
 ![Founder of UniflipUI — passionate front-end developer and WordPress expert.](https://media.licdn.com/dms/image/v2/D4D16AQH4OqwLObUAvw/profile-displaybackgroundimage-shrink_350_1400/B4DZh5NwfLGsAY-/0/1754380308837?e=1757548800&v=beta&t=0QfNXNRSVgK0LE-dlQBFMlti0ud0yCSg0XBUflhjuRY)
 
 ### Hi there 👋, I am Sudipto Das
-#### Founder of UniflipUI — passionate front-end developer and WordPress expert.
+#### Front-End Developer | UI/UX specialist | 5+ Years of Experience Turning Designs into Interactive and responsive Websites | Expert in React , Tailwind-CSS , JavaScript , HTML , CSS & PHP | Skilled in Git & GitHub.
 
 
 passionate about creating error-free, responsive, and modern websites that drive 100% client satisfaction. With strong expertise in HTML, CSS, JavaScript, and WordPress, I've built hundreds of websites that combine performance with clean design. I specialize in smooth, user-friendly UI/UX experiences tailored to real-world needs. I use Figma, Canva, and Photoshop to enhance design and prototyping. As a self-motivated learner, I am always exploring new tools and techniques to build better, smoother user experiences — with a focus on quality and creative problem-solving.
