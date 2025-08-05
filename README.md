@@ -1,4 +1,4 @@
-![Founder of UniflipUI — passionate front-end developer and WordPress expert.](https://media.licdn.com/dms/image/v2/D4D16AQG91eF8Qk8Z5g/profile-displaybackgroundimage-shrink_350_1400/B4DZguUgu8HsAY-/0/1753123786700?e=1756339200&v=beta&t=2HOZmB1uDXLQ7Bpi2c6lBPAniuu_DBLZBZ8whjT6fg0)
+![Founder of UniflipUI — passionate front-end developer and WordPress expert.](https://media.licdn.com/dms/image/v2/D4D16AQH4OqwLObUAvw/profile-displaybackgroundimage-shrink_350_1400/B4DZh5NwfLGsAY-/0/1754380308837?e=1757548800&v=beta&t=0QfNXNRSVgK0LE-dlQBFMlti0ud0yCSg0XBUflhjuRY)
 
 ### Hi there 👋, I am Sudipto Das
 #### Founder of UniflipUI — passionate front-end developer and WordPress expert.
